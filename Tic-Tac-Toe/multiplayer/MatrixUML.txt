@@ -1,0 +1,6 @@
+class Matrix:
+attributes:
+	3x3 matrix
+functions:
+	print matrix
+	check matrix for wins/draws

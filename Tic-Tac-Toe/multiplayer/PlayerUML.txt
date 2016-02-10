@@ -1,0 +1,7 @@
+class Player:
+attributes: 
+	turn ("x" or "o")
+	row
+	column
+functions:
+	user play
